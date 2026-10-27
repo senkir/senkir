@@ -1,5 +1,5 @@
-Senior Android Engineer, 11 years at Nike on NTC/NRC
-Kotlin, Jetpack Compose, XML Views, MVVM, app performance, localization (20 languages, RTL)
+Senior Android Engineer, 11 years at Nike on NTC/NRC <br/>
+Kotlin, Jetpack Compose, XML Views, MVVM, app performance, localization (20 languages, RTL) <br/>
 Older repos below are earlier open-source Android libraries (Java).
 
 [LinkedIn](https://linkedin.com/in/traviscastillo)
